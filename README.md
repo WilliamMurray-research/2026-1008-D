@@ -161,8 +161,7 @@ python src/speculative.py --prompt "Explain quantum tunneling."
 
 ## **Contributing**
 
-This project is intentionally small but built with care.  
-Contributions, ideas, and discussions are welcome.
+Contributions are off. 
 
 ---
 
