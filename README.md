@@ -1,5 +1,27 @@
-# **Speculative Decoding for Accuracy: Gemma 3 (270M → 1B)**  
-*An experimental two‑stage decoding pipeline exploring accuracy‑driven token verification*
+`2026-1014-D-read-001.md`  
+
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1014-D-read-001`  
+# Speculative Decoding for Accuracy: Gemma 3 (270M → 1B)  
+## An experimental two‑stage decoding pipeline exploring accuracy‑driven token verification
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 0.1       
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A minimal, tightly governed experimental module investigating accuracy‑oriented speculative decoding using a drafter–target pairing of Gemma 3 models (270M → 1B). Focuses on whether multi‑path exploration followed by probability‑based verification can improve semantic reliability, reduce hallucinations, and strengthen reasoning consistency. Designed as a reproducible, small‑scale research harness rather than a latency‑reduction system, with controlled acceptance thresholds, deterministic evaluation rules, and disciplined experimental methodology.  
+
+**Primary Model / Scheme**: Speculative‑Verification Decoding Scheme v0.1 — defines the drafter–target interaction protocol, candidate‑token generation rules, probability‑aligned acceptance criteria, fallback behaviour, and accuracy‑oriented verification thresholds. Establishes the formal substrate for guided search, semantic‑agreement filtering, and multi‑model decoding dynamics within a reproducible Gemma‑based experimental framework.  
 
 ---
 
