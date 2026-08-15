@@ -5,7 +5,7 @@
 **CLASSIFICATION**: D  
 
 **Document Reference**: `2026-1014-D-read-001`  
-# Speculative Decoding for Accuracy: Gemma 3 (270M → 1B)  
+# Speculative Decoding for Accuracy
 ## An experimental two‑stage decoding pipeline exploring accuracy‑driven token verification
 ### Project    
 
