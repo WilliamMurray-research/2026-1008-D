@@ -9,8 +9,7 @@
 ## An experimental two‑stage decoding pipeline exploring accuracy‑driven token verification
 ### Project    
 
-**Type**: read   
-**Classification**: D  
+**Type**: read     
 **Version**: 0.1       
 
 William Murray  
