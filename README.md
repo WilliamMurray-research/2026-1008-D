@@ -1,10 +1,10 @@
-`2026-1014-D/README.md`  
+`2026-1008-D/README.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-1014-D-read-000`  
+**Document Reference**: `2026-1008-D-read-000`  
 # Speculative Decoding for Accuracy
 ## An experimental two‑stage decoding pipeline exploring accuracy‑driven token verification
 ### Project    
